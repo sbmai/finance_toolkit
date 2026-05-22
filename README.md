@@ -1,6 +1,4 @@
-# Finance Toolkit
-
-Financial analysis tools built for FP&A professionals.
+# Financial analysis tools built for finance professionals.
 
 **Background**: SDA Bocconi MBA | 6+ years in FP&A 
 
